@@ -1,4 +1,4 @@
-# 🧠 Project Synapse: Agentic Development Roadmap
+# 🧠 Project GraphMind: Agentic Development Roadmap
 
 This plan tracks the progression from basic **LangChain** components to complex, stateful **LangGraph** agents.
 
@@ -30,7 +30,7 @@ This plan tracks the progression from basic **LangChain** components to complex,
 * [ ] **Human-in-the-Loop:** Implement a breakpoint where the agent pauses for your approval before taking an action.
 * [ ] **Self-Correction:** Build a "Reviewer" node that checks the output of the "Worker" node and sends it back if it fails criteria.
 
-## 🚀 Phase 5: Capstone Project (The "Synapse")
+## 🚀 Phase 5: Capstone Project (The "GraphMind")
 **Goal:** Build a production-ready autonomous agent.
 * [ ] **Project Goal:** Build an "Autonomous Research Assistant" that:
     1. Researches a topic via the web.
